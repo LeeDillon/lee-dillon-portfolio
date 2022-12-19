@@ -5,14 +5,15 @@
 ### User Story
 
 ```
-Please take a look through this collection of past work, feel free to reach out and contact me using the info contained within.
+Please take a look through this collection of past work, 
+feel free to reach out and contact me using the info contained within.
 ```
 
 
 
-* The URL of the deployed application: https://leedillon.github.io/weekly-challenge-1/
+* The URL of the deployed application: https://leedillon.github.io/lee-dillon-portfolio/
 
-* The URL of the GitHub repository: https://github.com/LeeDillon/weekly-challenge-1
+* The URL of the GitHub repository: https://github.com/LeeDillon/lee-dillon-portfolio
 
 ### Screenshots of website:
 ![image](https://user-images.githubusercontent.com/86656625/207419872-5bb38272-2829-4d85-bb5c-970da48a5d38.png)
