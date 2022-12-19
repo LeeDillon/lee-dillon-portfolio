@@ -41,7 +41,7 @@ header nav ul li {
 }
 
 a {
-  /* color: #ffffff; */
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -180,8 +180,12 @@ img {
 
 }
 
-#contact>nav {
+#contact nav {
   background-color: lightcyan;
+}
+
+#contact nav ul li a {
+  color: blue;
 }
 
 
